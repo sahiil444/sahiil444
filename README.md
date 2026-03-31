@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiil444&label=Profile%20views&color=0e75b6&style=flat" alt="sahiil444" /> </p>
 
-- 🌱 I’m currently learning **DSA-JAVA , Java Script**
+- 🌱 I’m currently learning **DSA-JAVA **
 
 - 📫 How to reach me **sahiilwork444@gmail.com**
 
